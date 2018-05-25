@@ -1,0 +1,10 @@
+i have home 
+
+IN NAVIGATION
+ 
+PsnBLog            Home         Search                     profile                          Menu              
+(clickable)                     (search the users)         (dropdown with editprofile)     logout 
+returns home page 
+
+
+(default type from bootstrap)         
